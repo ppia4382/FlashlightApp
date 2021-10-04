@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HIKARU</string>
+    <string name="button_text_Settings">Button Text Settings</string>
+    <string name="tv_text_heading_Settings" />
+    <string name="tv_text_title_ShakeThreshold" />
+    <string name="tv_text_explaination_st" />
+    <string name="iv_contentDisc" />
+    <string name="button_text_Save" />
+    <string name="switch_off_text" />
+    <string name="switch_on_text" />
+</resources>
